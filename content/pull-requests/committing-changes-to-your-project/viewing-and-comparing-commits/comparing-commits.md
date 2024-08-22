@@ -60,6 +60,10 @@ To compare branches on different repositories, preface the branch names with use
 
 Here's an example of a [comparison between two repositories](https://github.com/github-linguist/linguist/compare/master...octocat:master).
 
+Moreover, you can preface the branch names with user name and repository name together. For example, [[TODO]]
+
+Here's an example of a [comparison between two repositories](https://github.com/github-linguist/linguist/compare/master...octocat:linguist:master).
+
 ## Comparisons across commits
 
 You can compare a single commit in Git to the commit's predecessors using two types of notation.
